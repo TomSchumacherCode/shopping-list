@@ -1,0 +1,28 @@
+.complete {
+    background-color: rgb(100, 151, 48);
+}
+
+.incomplete {
+    background-color: coral;
+}
+
+.items {
+    border: 3px solid black;
+    text-align: center;
+}
+
+.listHeader {
+    display: flex;
+    flex-direction: row;
+    border-bottom: 2px solid black;
+}
+
+.headerAlign {
+    padding: 5px;
+    width: 25%;
+}
+
+.listRow {
+    display: flex;
+    flex-direction: row;
+}
